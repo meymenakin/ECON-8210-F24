@@ -12,7 +12,7 @@ This repository contains solution files for Homework II, which implements numeri
 	•	Neural Network Approximation
 
 ## Files
-	1.	**econ8210hw2_meakin.pdf:** PDF report comparing the solution methods.
+	1.	__econ8210hw2_meakin.pdf:__ PDF report comparing the solution methods.
 	2.	**econ8210hw2_meakin.tex:** LaTeX source for the report.
 	3.	**econ8210hw2q1-2_meakin.ipynb:** Jupyter Notebook that contains the summary of the model, derivation of the optimality conditions, and Julia code that computes the policy functions
 		through Chebyshev Polynomials and Finite Elements. Also saves the output.
