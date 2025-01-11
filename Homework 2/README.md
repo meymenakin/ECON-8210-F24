@@ -21,10 +21,14 @@ This repository contains solution files for Homework II, which implements numeri
 
 ## Requirements
 •	Python (for neural network)
+
 •	MATLAB + Dynare (for perturbation)
+
 •	Julia (for projection methods)
 
 ## Instructions
 •	Run .ipynb notebooks in Jupyter for Questions 1, 2, and 4.
+
 •	Use MATLAB + Dynare for Question 3.
+
 •	Compile econ8210hw2_meakin.tex to generate the report.
