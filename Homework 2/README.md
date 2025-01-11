@@ -1,13 +1,18 @@
 # ECON 8210: Homework II - Quantitative Macroeconomics
 
 Author: Mahmut Eymen Akin
+
 Date: January 11, 2025
 
 # Overview
 This repository contains solution files for Homework II, which implements numerical methods to solve macroeconomic policy functions (consumption, labor, and capital). Methods include:
+
 •	Chebyshev Polynomial Projection
+
 •	Finite Elements Projection
+
 •	3rd Order Perturbation
+
 •	Neural Network Approximation
 
 ## Files
