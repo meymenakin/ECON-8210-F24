@@ -1,13 +1,13 @@
 # Portland Cement Industry Regulation Analysis
 
-This repository contains code and data for replicating key analyses from Ryan (2012) "The Costs of Environmental Regulation in a Concentrated Industry" published in Econometrica. The analysis examines how the 1990 Clean Air Act Amendments affected market structure and welfare in the US Portland cement industry.
+This repository contains code and simulated data for replicating key analyses from Ryan (2012) "The Costs of Environmental Regulation in a Concentrated Industry" published in Econometrica. The analysis examines how the 1990 Clean Air Act Amendments affected market structure and welfare in the US Portland cement industry.
 
 ## Repository Contents
 
-- `econ8210replication.ipynb`: Main Jupyter notebook containing the replication code
-- `cement_data.csv`: Dataset containing plant-level production and capacity data (1980-1998)
-- `econ8210replicationreport_meakin.pdf`: Detailed report explaining the replication methodology
-- `Ryan_The Costs.pdf`: Original published paper being replicated
+- `econ8210replication.ipynb`: Main Jupyter notebook containing the replication code written in Python.
+- `cement_data.csv`: Simulated dataset containing plant-level production and capacity data (1980-1998).
+- `econ8210replicationreport_meakin.pdf`: Report explaining the replication methodology and discussion.
+- `Ryan_The Costs.pdf`: Original published paper being replicated.
 
 ## Analysis Overview
 
@@ -25,10 +25,5 @@ The code replicates the following key analyses:
    - Estimates structural parameters of the model
    - Quantifies changes in entry costs and other factors
 
-## Citation
-
-If you use this code or data in your research, please cite:
-
+## References
 Ryan, Stephen P. 2012. "The Costs of Environmental Regulation in a Concentrated Industry." Econometrica, 80(3): 1019-1061.
-
-This replication package is released under the MIT License.
